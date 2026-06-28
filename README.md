@@ -1,1 +1,52 @@
-# hmtl-resume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>Parth Tailor</h1>
+    <img src="./image/parth.jpeg" height="300" alt="Image of Resume Person">
+    <hr>
+    <h2>Summary</h2>
+    <ul>
+        <li>I am a first-year college student and an aspiring Full Stack Web Developer.</li>
+        <li>Currently I am learning HTML and CSS</li>
+        <li>I enjoy solving problems and building websites.</li>
+    </ul>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>I am in First Year and Currently I am Pursuing BCA <br>(Bechelor of Computer Application)</li>
+        <li>Expected Graduation: 2029</li>
+    </ul>
+    <hr>
+    <h2>Skills</h2>
+    <ul>
+        <li>Basic Web Development</li>
+        <li>I am learning HTML Language</li>
+        <li>In future, I will be learning CSS, Javascript etc.</li>
+        <li>I have Completed the basics python </li>
+    </ul>
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="./projects/movie-ranking.html">Movie Ranking Project</a></li>
+        <li><a href="./projects/movie-ranking.html">Birthday Invite Project</a></li>
+    </ul>
+    <hr>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>I Play Cricket</li>
+        <li>I Listen songs</li>
+        <li>I Solve Problems</li>
+        <li>I Make Projects</li>
+    </ul>
+    <hr>
+    <a href="./projects/contact.html">Contact Me</a>
+    <footer>
+        <p>Created by @Parth Tailor</p>
+    </footer>
+
+</body>
+</html>
